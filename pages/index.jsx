@@ -89,7 +89,7 @@ export default function Home() {
                 <p className='text-[#F2F2F2] text-xs'>© 2022 Techip. All rights reserved.</p>
               </div>
             </div>
-            <div />
+            <div/>
             <div className='centered'>
               <div className='centered flex-col space-y-4'>
                 <div>
